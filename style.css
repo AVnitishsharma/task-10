@@ -20,12 +20,13 @@ main {
   height: 80%;
   width: 80%;
   border: 5px solid black;
-  border-radius: 20px;
+  border-radius: 15px;
   padding: 10px;
   display: grid;
   grid-template-columns: 1.3fr 1fr 1fr 1fr;
   grid-template-rows: 1.5fr 1fr;
-  gap: 20px;
+  gap: 10px;
+  background-color: rgb(30, 193, 136);
 }
 main section {
   border: 2px solid black;
